@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Sənədlər\random number\random number\random number\obj\Debug\net10.0-windows\RandomNumber.Form1.resources
+C:\Users\User\OneDrive\Sənədlər\random number\random number\random number\obj\Debug\net10.0-windows\random number.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Sənədlər\random number\random number\random number\obj\Debug\net10.0-windows\random number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Sənədlər\random number\random number\random number\obj\Debug\net10.0-windows\random number.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Sənədlər\random number\random number\random number\obj\Debug\net10.0-windows\random number.AssemblyInfo.cs
+C:\Users\User\OneDrive\Sənədlər\random number\random number\random number\obj\Debug\net10.0-windows\random number.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Sənədlər\random number\random number\random number\obj\Debug\net10.0-windows\random_number.Form1.resources
